@@ -1,2 +1,1 @@
-# TODO
-Somebody hold me accountable to this stuff.
+I have a hard time keeping track of ideas and stuff that I want to do in my spare time. I'm putting them [here](issues) so that others can see what I'm thinking about, point out any prior art that might spare me having to make things from scratch, or even steal these ideas wholesale.
